@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32422.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oqtane.Server", "..\oqtane.framework\Oqtane.Server\Oqtane.Server.csproj", "{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "elgransan.BoostrapMDB.Client", "Client\elgransan.BoostrapMDB.Client.csproj", "{572B6FB7-1BC7-45DF-ADC0-3DA33956BBA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "elgransan.BoostrapMDB.Package", "Package\elgransan.BoostrapMDB.Package.csproj", "{9F418E89-CC74-4E30-90E5-C6E11791938C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572B6FB7-1BC7-45DF-ADC0-3DA33956BBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572B6FB7-1BC7-45DF-ADC0-3DA33956BBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572B6FB7-1BC7-45DF-ADC0-3DA33956BBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572B6FB7-1BC7-45DF-ADC0-3DA33956BBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F418E89-CC74-4E30-90E5-C6E11791938C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F418E89-CC74-4E30-90E5-C6E11791938C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F418E89-CC74-4E30-90E5-C6E11791938C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F418E89-CC74-4E30-90E5-C6E11791938C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D016F15-46FE-4726-8DFD-2E4FD4DC7668}
+	EndGlobalSection
+EndGlobal
